@@ -42,7 +42,7 @@ metadata:
   name: sretest-service
 spec:
   selector:
-    app: sretest-service
+    app: sretest
   type: NodePort
   ports:
   - protocol: TCP
